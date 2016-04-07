@@ -1,0 +1,18 @@
+span {color: grey;
+}
+
+* {color:grey;}
+
+html,body, main, header{
+	font-family: 'Indie Flower', cursive;
+	font-size: 16px;  
+ 	z-index: 0;
+} 
+
+.focuz-slide-lgt {
+    color: #fff;
+    font-family: 'Amatic SC', cursive;
+    font-size: 50px;
+    font-weight: 800;
+}
+
