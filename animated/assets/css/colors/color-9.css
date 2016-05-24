@@ -278,7 +278,7 @@ article.post .entry-date,
 .portfolio-item figure .item-link:after,
 .widget .recentposts>li>.rp-img a:before,
 .team-member:hover .member-img-box:before {
-	background-color: rgba(176, 121, 38, 0.71);
+	background-color:#26261E;
 }
 
 .btn.active, .bg-btn,

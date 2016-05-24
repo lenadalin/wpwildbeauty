@@ -199,7 +199,7 @@ section+hr,
 .polygon-bg {
 	background-image: url(../images/polygon-bg.jpg);
 	background-repeat: repeat;
-	color:#FFF; 
+	color:white; 
 }
 .parallax-bg { 
 	background-attachment: fixed;
@@ -330,7 +330,7 @@ h3 a:hover,
 h4 a:hover, 
 h5 a:hover, 
 h6 a:hover {
-	color:#5F5848;
+	color:
 }
 
 h1 > span,
