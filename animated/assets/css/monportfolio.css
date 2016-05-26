@@ -1,0 +1,27 @@
+
+#nav ul ul li a:hover {
+    background: #ffd;
+    color: #111;
+    text-shadow: 0 1px 0 #fff;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#nav ul ul a:active span {
+    color: #111;
+    position: relative;
+    top: 1px;
+}
+
+
+
+
+}
+
+@media only screen and (max-width : 320px),
+only screen and (max-device-width : 320px){
+	nav li a {
+		font: 400 11px/1.4 'Cutive', Helvetica, Verdana, Arial, sans-serif;
+	}
+}
